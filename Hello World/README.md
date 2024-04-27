@@ -12,12 +12,11 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+{For this project I used Visual Studio Code as my IDE.}
 
-{Describe the programming language that you used}
+{For this project I used the latest version of Python.}
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [W3Schools](https://www.w3schools.com/python/python_syntax.asp)
