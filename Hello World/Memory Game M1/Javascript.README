@@ -1,0 +1,30 @@
+# Overview
+
+{This program is a memory game shown through html}
+
+{The purpose of this program is to help me to better understand how to use html and javascript together to create a program that will have some sort of user interface and a backend. It also helped me to learn how to use api's and how to use them to enhance a project.}
+
+{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+
+[Software Demo Video](https://youtu.be/1X_DnYFi2W0)
+
+# Development Environment
+
+{I used Visual Studio Code to create this program. I used html, css, and javascript to create the program. I also used the api from the website http://www.randomnumberapi.com.}
+
+{I used javascript as well as html to create this project.}
+
+# Useful Websites
+
+{Make a list of websites that you found helpful in this project}
+
+- [Web Site Name](w3schools.com)
+- [Web Site Name](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)
+
+# Future Work
+
+{Make a list of things that you need to fix, improve, and add in the future.}
+
+- an api tht will have more allowance for requests
+- clean up how the letters display when the api is working
+- optimize the code so that recursion is more clear and easier to follow.
